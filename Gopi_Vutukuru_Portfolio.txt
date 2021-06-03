@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+ <title>Gopi_Vutukuru_Portfolio</title>
+</head>
+<body style="background-color: #fff5b7;">
+  <table cellspacing="50">
+    <tr>
+      <td><img src="gopi.image.jpg" alt="Gopi_Vutukuru_Image" height="150"></td>
+      <td>
+        <h1>
+          Gopi Vutukuru
+        </h1>
+        <p>
+	  <em>Graduating Engineer</em>
+	</p>
+        </td>
+        </tr>
+  </table>
+  <hr size="5" noshade />
+  <h3>Education</h3>
+  <table border="1">
+    <thead>
+      <th>Course</th>
+      <th>Institute</th>
+      <th>CGPA/Percentage</th>
+    </thead>
+    <tbody>
+      <tr>
+        <style>
+  td{text-align: center;}
+  </style>
+        <td>Bachelor Of Technology</td>
+        <td>Siddharth Institute of Engineering and Technology</td>
+        <td>8.1</td>
+      </tr>
+      <tr>
+        <td>Intermediate</td>
+        <td>Shri Veda Junior College</td>
+        <td>96.1%</td>
+      </tr>
+      <tr>
+        <td>SSC</td>
+        <td>Vedavyasa Vidya Niketan</td>
+        <td>10</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr size="5" noshade />
+  <h3>Skills</h3>
+<table cellspacing="10">
+  <tbody>
+    <ul>
+      <li>Python</li>
+      <li>Embedded Systems</li>
+   </ul>
+  </tbody>
+</table>
+  <hr size="5" noshade />
+  <h3>
+    Interests
+  </h3>
+  <ul>
+    <li>Software Development</li>
+    <li>Artificial Intelligence</li>
+    <li>Digital Electronics</li>
+  </ul>
+
+  <hr size="5" noshade />
+<h3>Projects</h3>
+<ul>
+  <li>SACHAN.BOT - Autonomous health care robot</li>
+  <li>Skill Mi - A platform for freelancing</li>
+</ul>
+<hr size="5" noshade />
+  <h3>Contact Details</h3>
+ <ul>
+   <li>Mobile ---> +917893306354</l>
+   <li>gopi2708@gmail.com</li>
+   <li><a href="https://www.linkedin.com/in/gopivutukuru" target="_blank">LinkedIn</a></li>
+</body>
+</html>
